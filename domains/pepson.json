@@ -1,0 +1,12 @@
+{
+  "description": "Pan Pepson .dev",
+  "repo": "https://github.com/panpepson",
+  "owner": {
+    "username": "panpepson",
+    "email": "panpepson@o2.pl"
+  },
+  "record": {
+    "CNAME": "https://github.com/panpepson",
+    "URL": "https://panpepson.is-a.dev"
+  }
+}
